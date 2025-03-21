@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 # Wajahat Siddique
 - 🔭 I’m currently working on ...
