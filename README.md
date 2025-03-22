@@ -6,6 +6,3 @@ Welcome to my GitHub! I am a **SAP Analytics Consultant** with expertise in **da
 - Strong background in **data modeling & integration**
 -  Experienced in **report & dashboard creation for enterprise solutions**
 -  Passionate about **data-driven decision-making & business strategy**
-
-## 📬 Let's Connect!
-💼 [LinkedIn](https://linkedin.com/in/wajahatsiddique)|
