@@ -10,4 +10,5 @@ Welcome to my GitHub! I am a **SAP Analytics Consultant** with expertise in **da
 - Proficient in **data analysis using Python**
 - Command over **data analysis in SQL**
 - Passionate about **data-driven decision-making & business strategy**
+- Strong Command on **Data Warehousing Concepts**
 
